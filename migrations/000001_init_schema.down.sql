@@ -1,0 +1,6 @@
+DROP INDEX IF EXISTS idx_people_dataset_id;
+
+DROP TABLE IF EXISTS people;
+DROP TABLE IF EXISTS datasets;
+
+DROP EXTENSION IF EXISTS pgcrypto;
