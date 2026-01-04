@@ -1,0 +1,17 @@
+# binaries
+bin/
+dist/
+
+# env
+.env
+.env.*
+
+# editor/OS
+.DS_Store
+.idea/
+.vscode/
+
+# go build/test
+*.exe
+*.test
+*.out
